@@ -2,7 +2,7 @@
 
 Using ES6 and ES7 with Gulp
 
-See more detail in my <a href="">blog</a>.
+See more detail in my <a href="" target="_blank">blog</a>.
 
 
 Installing 
@@ -17,6 +17,7 @@ Running
 ```
 gulp build 
 ```
+The output is generate on /lib folder.
 
 Dependencies 
 -------
