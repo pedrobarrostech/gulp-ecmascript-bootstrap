@@ -2,7 +2,7 @@
 
 Using ES6 and ES7 with Gulp
 
-See more detail in my <a href="" target="_blank">blog</a>.
+See more details in my <a href="https://medium.com/@pedro.barros/destrinchando-a-ecmascript-com-gulp-f370a1046a32#.8hane8vlw" target="_blank">blog</a>.
 
 
 Installing 
