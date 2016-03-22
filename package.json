@@ -1,0 +1,27 @@
+{
+  "name": "gulp-es6",
+  "version": "1.0.0",
+  "description": "Using ES6 in Gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gulp-es6-bootstrap"
+  },
+  "keywords": [
+    "gulp",
+    "es6",
+    "bootstrap"
+  ],
+  "author": "Pedro Barros",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "gulp": "^3.9.1",
+    "gulp-exec": "^2.1.2"
+  }
+}
