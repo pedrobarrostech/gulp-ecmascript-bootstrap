@@ -2,6 +2,8 @@
 
 Using ES6 and ES7 with Gulp
 
+See more detail in my <a href="">blog</a>.
+
 
 Installing 
 -------
