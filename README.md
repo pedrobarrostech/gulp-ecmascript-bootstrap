@@ -1,4 +1,4 @@
-# gulp-ecmascript-bootstrap
+# Gulp ECMAScript Bootstrap
 
 Using ES6 and ES7 with Gulp
 
